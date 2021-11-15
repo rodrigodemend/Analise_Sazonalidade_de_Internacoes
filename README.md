@@ -16,14 +16,9 @@ Foi utilizada a janela temporal de Janeiro de 2008 até Dezembro de 2019 para an
 
 ## Resultados
 
+O objetivo dessa análise é buscar um padrão de sazonalidade nos dados, pensando nisso podemos ver que praticamente em todos os estados o padrão do número de internações tem o pico por volta de Junho e Julho, assim como tem a maior baixa nos meses de Novembro à Janeiro.
 
-
-
-
-
-
-
-
+Com base nisso as pessoas responsáveis pelos recursos de saúde no Brasil pode tomar decisões melhores sobre em que época priorizar os recursos escassos.
 
 ## Autor 🧔
 
