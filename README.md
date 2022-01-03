@@ -1,6 +1,6 @@
 # Análise de Sazonalidade das Internações no SUS
 
-![bola de cristal](https://www.flamengorj.com.br/arquivos/Noticia/b2a40e44-726b-4850-a9b8-3319f7c5f700_large.jpeg)
+![imagem](https://user-images.githubusercontent.com/93204395/141705602-6c14ff3a-ec0e-45ef-9268-f491b9f456e3.jpg)
 
 ## Descrição 📈
 
