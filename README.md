@@ -22,6 +22,12 @@ Com base nisso as pessoas responsáveis pelos recursos de saúde no Brasil pode 
 
 ## Autor 🧔
 
-Rodrigo de Mendonça
+Rodrigo de Mendonça 
 
-Linkedin: https://www.linkedin.com/in/rodrigomendonça/
+<a href="https://www.linkedin.com/in/rodrigomendonça/" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:<rodrigodemend@gmail.com>" alt="gmail" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
+</a>
